@@ -94,6 +94,7 @@ body {
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
+}
 
 
 .apresentacao__links__navegacao:hover {
